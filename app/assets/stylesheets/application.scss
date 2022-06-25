@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+//  Visual Frameworks
+ @import "bootstrap/scss/bootstrap";
+
+// Individual Stylesheets
+ @import "landing";
