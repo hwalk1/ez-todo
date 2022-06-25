@@ -103,6 +103,11 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- DESIGN & PLANNING -->
+## Design & Planning
+
+[Figma] (https://www.figma.com/file/frMCndk4vZG4kPEu87m0pq/Ez-todo?node-id=0%3A1)
+
 
 
 <!-- GETTING STARTED -->
